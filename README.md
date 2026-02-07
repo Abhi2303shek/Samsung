@@ -1,7 +1,3 @@
-Here’s a polished **README description** you can use for your Samsung dataset repository on GitHub:
-
----
-
 # Samsung Dataset 📊
 
 ## Overview
@@ -53,5 +49,3 @@ Contributions are welcome! If you’d like to improve the dataset or add analysi
 This project is licensed under the **MIT License** – feel free to use and modify for your own projects.
 
 ---
-
-Would you like me to also draft a **sample “Data Dictionary” section** for the README, where each column in the CSV is explained (e.g., `Product_Name`, `Release_Year`, `Price`)? That would make the README even more useful for collaborators.
